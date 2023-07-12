@@ -7,6 +7,7 @@ import FriendList from './FriendList/FriendList';
 import transactions from './TransactionHistory/transactions.json';
 import TransactionHistory from './TransactionHistory/TransactionHistory';
 
+
  const App = () => {
   return (
     <>
