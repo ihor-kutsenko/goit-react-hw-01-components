@@ -25,4 +25,4 @@ import TransactionHistory from './TransactionHistory/TransactionHistory';
     </>
   );
 };
-export default App;
+export default App; 
